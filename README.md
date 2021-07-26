@@ -7,7 +7,7 @@
 
 # Smart-Contract-Unit-Testing
 
-Playing around with Solidity Smart Contract unit testing using JavaScript, Truffle and Mocha.
+Playing around with unit testing Solidity Smart Contracts with JavaScript, Truffle and Mocha.
 
 
 
